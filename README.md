@@ -149,10 +149,9 @@ I've also worked on several applications using:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aitbhou2003/aitbhou2003/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/aitbhou2003/aitbhou2003/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
-
 ---
 
 # 📚 Currently Learning
