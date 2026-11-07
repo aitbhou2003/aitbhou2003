@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;PHP+%7C+Laravel+11+%26+12+%7C+Vue.js+3;MERN+Stack+%7C+Node.js+%7C+Express+%7C+MongoDB;PostgreSQL+%7C+Docker+%7C+REST+APIs;Computer+Security+%26+Networks+Background" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ait-bhou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellah-ait-bhou-77508239a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aitbhou2003)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdellah.aitbhou.2003@gmail.com)
 [![Portfolio Views](https://komarev.com/ghpvc/?username=aitbhou2003&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/aitbhou2003)
@@ -120,7 +120,7 @@ I am a passionate **Full-Stack Developer** currently enrolled in the **Full Stac
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ait--bhou-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ait-bhou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ait--bhou-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdellah-ait-bhou-77508239a/)
 [![Email](https://img.shields.io/badge/Email-abdellah.aitbhou.2003@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:abdellah.aitbhou.2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-aitbhou2003-181717?style=flat-square&logo=github)](https://github.com/aitbhou2003)
 
